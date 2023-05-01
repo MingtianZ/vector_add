@@ -47,6 +47,6 @@ To use the `vector_add` package in your Python code, simply import the desired f
 ```python
 from vector_add import add_test
 
-# Use the function
-add_test(...)
+# Use the test function
+add_test()
 ```
