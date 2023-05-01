@@ -19,7 +19,7 @@ To install the package, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/vector_add_gpu.git
+git clone https://github.com/MingtianZ/vector_add_gpu.git
 ```
 
 
@@ -45,8 +45,8 @@ pip install -e .
 To use the `vector_add` package in your Python code, simply import the desired function from the package:
 
 ```python
-from vector_add import some_function
+from vector_add import add_test
 
 # Use the function
-result = some_function(...)
+add_test(...)
 ```
