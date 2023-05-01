@@ -19,14 +19,14 @@ To install the package, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/MingtianZ/vector_add_gpu.git
+git clone https://github.com/MingtianZ/vector_add.git
 ```
 
 
 2. Navigate to the cloned directory:
 
 ```
-cd vector_add_gpu
+cd vector_add
 ```
 
 3. Install the package using `pip`:
