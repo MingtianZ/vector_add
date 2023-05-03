@@ -46,24 +46,6 @@ static PyMethodDef methods[] = {
     {NULL, NULL, 0, NULL}
 };
 
-// static struct PyModuleDef vector_add_module = {
-//     PyModuleDef_HEAD_INIT,
-//     "vector_add",
-//     NULL,
-//     -1,
-//     vector_add_methods
-// };
-
-// PyMODINIT_FUNC PyInit_vector_add(void) {
-//     PyObject *module = PyModule_Create(&vector_add_module);
-//     if (!module) {
-//         return NULL;
-//     }
-
-//     import_array();
-//     return module;
-// }
-
 
 
 PyMODINIT_FUNC PyInit_gpu(void) {
